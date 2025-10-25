@@ -1,5 +1,5 @@
-```markdown
-# OPA — Fortification Against One‑Pixel Attack
+
+# Fortification Against One‑Pixel Attack (OPA)
 
 This repository contains code, experiments, and analysis for studying defenses (fortification) against the One‑Pixel Attack (OPA) — an adversarial attack that modifies only a single pixel in an image to cause misclassification. The goal of this project is to evaluate, develop, and compare practical mitigation strategies that reduce the vulnerability of image classifiers to highly sparse adversarial perturbations.
 
